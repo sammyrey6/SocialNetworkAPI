@@ -1,0 +1,14 @@
+
+[
+    {
+      "thoughtText": "Thought by user1...",
+      "username": "user1",
+      "userId": "user1_id"
+    },
+    {
+      "thoughtText": "Thought by user2...",
+      "username": "user2",
+      "userId": "user2_id"
+    }
+  ]
+  

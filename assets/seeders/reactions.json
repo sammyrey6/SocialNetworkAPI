@@ -1,0 +1,14 @@
+
+[
+    {
+      "reactionBody": "Nice thought!",
+      "username": "user1",
+      "thoughtId": "thought1_id"
+    },
+    {
+      "reactionBody": "Interesting...",
+      "username": "user2",
+      "thoughtId": "thought2_id"
+    }
+  ]
+  
